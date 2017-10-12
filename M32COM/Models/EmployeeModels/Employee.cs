@@ -7,7 +7,7 @@ namespace M32COM.Models.EmployeeModels
 {
     public class Employee
     {
-        #region Attributs
+        #region Attributes
         private string name;
         private string id; // 5 digits
         #endregion

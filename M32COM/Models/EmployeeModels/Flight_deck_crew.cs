@@ -7,7 +7,7 @@ namespace M32COM.Models.EmployeeModels
 {
     public class Flight_deck_crew : Employee
     {
-        #region Attributs
+        #region Attributes
         private string total_flying_hours;
         #endregion
         #region Constructors

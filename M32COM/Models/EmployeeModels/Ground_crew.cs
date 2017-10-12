@@ -7,7 +7,7 @@ namespace M32COM.Models.EmployeeModels
 {
     public class Ground_crew : Employee
     {
-        #region Attributs
+        #region Attributes
         private string aircraft_maintenance_history; // not sure if string or string[]
         #endregion
         #region Constructors

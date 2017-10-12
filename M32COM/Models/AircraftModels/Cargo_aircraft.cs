@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace M32COM.Models.EmployeeModels
+namespace M32COM.Models.AircraftModels
 {
-    public class Cabin_crew : Employee
+    public class Cargo_aircraft : Aircraft
     {
         #region Attributes
-        private string total_flying_hours;
+        double maximum_carrying_capacity; // in metric tons
         #endregion
         #region Constructors
         #endregion
@@ -16,5 +16,6 @@ namespace M32COM.Models.EmployeeModels
         #endregion
         #region Accessors
         #endregion
+
     }
 }

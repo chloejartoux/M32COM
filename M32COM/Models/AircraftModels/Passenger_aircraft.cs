@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace M32COM.Models.EmployeeModels
+namespace M32COM.Models.AircraftModels
 {
-    public class Cabin_crew : Employee
+    public class Passenger_aircraft
     {
         #region Attributes
-        private string total_flying_hours;
+        private int maximum_sitting_capacity;
         #endregion
         #region Constructors
         #endregion
@@ -16,5 +16,6 @@ namespace M32COM.Models.EmployeeModels
         #endregion
         #region Accessors
         #endregion
+
     }
 }

@@ -5,11 +5,10 @@ using System.Threading.Tasks;
 
 namespace M32COM.Models.EmployeeModels
 {
-    public class Employee
+    public class Flight_deck_crew : Employee
     {
         #region Attributs
-        private string name;
-        private string id; // 5 digits
+        private string total_flying_hours;
         #endregion
         #region Constructors
         #endregion

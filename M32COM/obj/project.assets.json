@@ -13125,11 +13125,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shori\\source\\repos\\M32COM\\M32COM\\M32COM.csproj",
+      "projectUniqueName": "C:\\Users\\Shori\\Documents\\GitHub\\M32COM\\M32COM\\M32COM.csproj",
       "projectName": "M32COM",
-      "projectPath": "C:\\Users\\Shori\\source\\repos\\M32COM\\M32COM\\M32COM.csproj",
+      "projectPath": "C:\\Users\\Shori\\Documents\\GitHub\\M32COM\\M32COM\\M32COM.csproj",
       "packagesPath": "C:\\Users\\Shori\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shori\\source\\repos\\M32COM\\M32COM\\obj\\",
+      "outputPath": "C:\\Users\\Shori\\Documents\\GitHub\\M32COM\\M32COM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

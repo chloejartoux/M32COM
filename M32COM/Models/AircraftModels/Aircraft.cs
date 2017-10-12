@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace M32COM.Models.AircraftModels
 {
-    public class Aircraft
+    public abstract class Aircraft
     {
         #region Attributes
         private string registration_id; // 3 digits and 3 letters

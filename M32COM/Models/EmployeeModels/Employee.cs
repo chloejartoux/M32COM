@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace M32COM.Models.EmployeeModels
 {
-    public class Employee
+    public abstract class Employee
     {
         #region Attributes
         private string name;
